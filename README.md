@@ -1,3 +1,4 @@
-# summary_library
+# Summary library
 
-![QuiltView](res/img_quilt_view_library.png) 
+![QuiltView](image/img_quilt_view_library.png)
+https://github.com/yingming97/QuiltViewLibrary.git
