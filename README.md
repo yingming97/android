@@ -62,4 +62,4 @@
 |        [StickyTimeLine](https://github.com/yingming97/StickyTimeLine.git)        |                              [Android Ripple Background]()                               |
 |                          ![](image/sticky_timeline.gif)                          |                            ![](/image/rippleFoundDevice.gif)                             |
 |         [Side Menu](https://github.com/yingming97/Side-Menu.Android.git)         |  [SSCustomBottomNavigation](https://github.com/yingming97/SSCustomBottomNavigation.git)  |
-|                            ![](/image/slide_menu.gif)                            |                         [](/image/custom_bottom_navigation.gif)                          |
+|                            ![](/image/slide_menu.gif)                            |                         ![](/image/custom_bottom_navigation.gif)                          |
