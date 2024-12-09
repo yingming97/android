@@ -59,7 +59,7 @@
 |                       ![](image/fancy_show_case_view.gif)                        |                              ![](image/tap_target_view.gif)                              |
 |         [CardStackView](https://github.com/yingming97/CardStackView.git)         |                   [Tooltip](https://github.com/yingming97/Tooltip.git)                   |
 |                        ![](image/card_stack_overview.gif)                        |                               ![](image/tooltips_view.gif)                               |
-|        [StickyTimeLine](https://github.com/yingming97/StickyTimeLine.git)        |                              [Android Ripple Background]()                               |
+|        [StickyTimeLine](https://github.com/yingming97/StickyTimeLine.git)        |                              [Android Ripple Background](https://github.com/yingming97/android-ripple-background)                               |
 |                          ![](image/sticky_timeline.gif)                          |                            ![](/image/rippleFoundDevice.gif)                             |
 |         [Side Menu](https://github.com/yingming97/Side-Menu.Android.git)         |  [SSCustomBottomNavigation](https://github.com/yingming97/SSCustomBottomNavigation.git)  |
 |                            ![](/image/slide_menu.gif)                            |                         ![](/image/custom_bottom_navigation.gif)                          |
